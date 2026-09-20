@@ -2,7 +2,7 @@
 # Week 3: Python Conditions and Loops Assignment
 
 ## File Descriptions
-- `grading.py`: Processes a list of learner scores to assign letter grades, counts total passes and fails, and calculates the rounded average score.
+- `grade_reporter.py`: Processes a list of learner scores in a single pass to assign letter grades, count total passes and fails, and calculate the rounded average score.
 - `bug_hunt.py`: Calculates the sum of numbers from 1 to 5 using a `while` loop, with three bugs identified and resolved using `# BUG:` comments.
 
 ## Reflection on Part B (Bug Hunt)
